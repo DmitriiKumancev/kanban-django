@@ -1,1 +1,1 @@
-web: gunicorn board:app
+web: gunicorn kanban.wsgi:application
