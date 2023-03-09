@@ -14,5 +14,5 @@ python3 manage.py createsuperuser
 ### Продакшн
 
 1. Установить зависимости `pip install -r requirements.txt`
-1. Создать файл конфигурации `local_settings.py` в папке [kanban](kanban) по примеру из файла [kanban/local_settings.py.example](kanban/local_settings.py.example).
+1. Создать файл конфигурации `local_settings.py` в папке [kanban](kanban).
 1. Собрать статику командой `python3 manage.py collectstatic`, после чего она будет доступна в папке `./static`.
