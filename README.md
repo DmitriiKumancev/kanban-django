@@ -1,7 +1,7 @@
 ### Установка локального окружения
 
 ```bash
-git clone https://github.com/natkaida/kanban.git
+git clone https://github.com/DmitriiKumancev/kanban-django.git
 cd kanban
 
 pip install -r requirements.dev.txt
